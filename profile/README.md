@@ -79,16 +79,15 @@ Nos proyectamos como la plataforma líder en salud digital y nutrición preventi
 
 ## 👥 Equipo y Colaboradores
 
-## 👥 Equipo y Colaboradores
-
 El desarrollo de ECONUTRIX es impulsado por un equipo multidisciplinario internacional, enfocado en la excelencia técnica y el impacto en el bienestar regional:
 
-* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> **Gerson Figelist C.** - *Founder & Vision Lead*
-* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> **Gerson Figelist C.** - *Product Owner (PO)*
-* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> | <img src="https://flagcdn.com" alt="Perú" width="16" height="12"> **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
-* <img src="https://flagcdn.com" alt="México" width="16" height="12"> **Luis Farias R.** - *Core Backend Developer*
-* <img src="https://flagcdn.com" alt="México" width="16" height="12"> **Carlos Lopez M.** - *Frontend Engineer*
-* <img src="https://flagcdn.com" alt="Argentina" width="16" height="12"> **Santiago Gimenez** - *Frontend Engineer*
+* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) **Gerson Figelist C.** - *Founder & Vision Lead*
+* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) **Gerson Figelist C.** - *Product Owner (PO)*
+* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) | ![Perú](https://shields.io🇵🇪-red?style=flat-square) **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
+* ![México](https://shields.io🇲🇽-green?style=flat-square) **Luis Farias R.** - *Core Backend Developer*
+* ![México](https://shields.io🇲🇽-green?style=flat-square) **Carlos Lopez M.** - *Frontend Engineer*
+* ![Argentina](https://shields.io🇦🇷-lightgrey?style=flat-square) **Santiago Gimenez** - *Frontend Engineer*
+
 
 ---
 
