@@ -1,12 +1,8 @@
 <p align = "left">
-  <img width="324" height="324" alt="logo-econutrix" src="https://github.com/user-attachments/assets/cbad2540-5cfe-492f-8a25-a2675ba15df2" />
+  <img width="224" height="224" alt="logo-econutrix" src="https://github.com/user-attachments/assets/cbad2540-5cfe-492f-8a25-a2675ba15df2" />
 </p>
 # 🧬 ECONUTRIX
 > Nutrición inteligente, personalizada y científica impulsada por Inteligencia Artificial.
-
-<p align="center">  
-  <img src="https://placehold.co/600x150/E9F5E9/34D399?text=ECONUTRIX" alt="ECONUTRIX Logo" />  
-</p>
 
 ECONUTRIX es una plataforma tecnológica de salud y nutrición basada en Inteligencia Artificial que transforma la despensa y el refrigerador de los usuarios en un **copiloto inteligente de cocina y bienestar**. Con solo una fotografía o escaneo de los alimentos disponibles, nuestro ecosistema genera recomendaciones automatizadas de recetas, planes nutricionales a la medida, automatización de compras y gestión de hábitos saludables adaptados a los objetivos y al perfil metabólico de cada persona.
 
