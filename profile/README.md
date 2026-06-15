@@ -79,14 +79,16 @@ Nos proyectamos como la plataforma líder en salud digital y nutrición preventi
 
 ## 👥 Equipo y Colaboradores
 
+## 👥 Equipo y Colaboradores
+
 El desarrollo de ECONUTRIX es impulsado por un equipo multidisciplinario internacional, enfocado en la excelencia técnica y el impacto en el bienestar regional:
 
-* 🇨🇱 **Gerson Figelist C.** - *Founder & Vision Lead*
-* 🇨🇱 **Gerson Figelist C.** - *Product Owner (PO)*
-* 🇨🇱 | 🇵🇪 **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
-* 🇲🇽 **Luis Farias R.** - *Core Backend Developer*
-* 🇲🇽 **Carlos Lopez M.** - *Frontend Engineer*
-* 🇦🇷 **Santiago Gimenez** - *Frontend Engineer*
+* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> **Gerson Figelist C.** - *Founder & Vision Lead*
+* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> **Gerson Figelist C.** - *Product Owner (PO)*
+* <img src="https://flagcdn.com" alt="Chile" width="16" height="12"> | <img src="https://flagcdn.com" alt="Perú" width="16" height="12"> **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
+* <img src="https://flagcdn.com" alt="México" width="16" height="12"> **Luis Farias R.** - *Core Backend Developer*
+* <img src="https://flagcdn.com" alt="México" width="16" height="12"> **Carlos Lopez M.** - *Frontend Engineer*
+* <img src="https://flagcdn.com" alt="Argentina" width="16" height="12"> **Santiago Gimenez** - *Frontend Engineer*
 
 ---
 
