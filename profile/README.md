@@ -1,3 +1,6 @@
+<p align = "left">
+  <img width="324" height="324" alt="logo-econutrix" src="https://github.com/user-attachments/assets/cbad2540-5cfe-492f-8a25-a2675ba15df2" />
+</p>
 # 🧬 ECONUTRIX
 > Nutrición inteligente, personalizada y científica impulsada por Inteligencia Artificial.
 
