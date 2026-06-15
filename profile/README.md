@@ -81,12 +81,12 @@ Nos proyectamos como la plataforma líder en salud digital y nutrición preventi
 
 El desarrollo de ECONUTRIX es impulsado por un equipo multidisciplinario internacional, enfocado en la excelencia técnica y el impacto en el bienestar regional:
 
-* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) **Gerson Figelist C.** - *Founder & Vision Lead*
-* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) **Gerson Figelist C.** - *Product Owner (PO)*
-* ![Chile](https://shields.io🇨🇱-blue?style=flat-square) | ![Perú](https://shields.io🇵🇪-red?style=flat-square) **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
-* ![México](https://shields.io🇲🇽-green?style=flat-square) **Luis Farias R.** - *Core Backend Developer*
-* ![México](https://shields.io🇲🇽-green?style=flat-square) **Carlos Lopez M.** - *Frontend Engineer*
-* ![Argentina](https://shields.io🇦🇷-lightgrey?style=flat-square) **Santiago Gimenez** - *Frontend Engineer*
+* **[Chile]** **Gerson Figelist C.** - *Founder & Vision Lead*
+* **[Chile]** **Gerson Figelist C.** - *Product Owner (PO)*
+* **[Chile / Perú]** **Macarena Mallea C. | David Sondor M.** - *UX/UI Designer*
+* **[México]** **Luis Farias R.** - *Core Backend Developer*
+* **[México]** **Carlos Lopez M.** - *Frontend Engineer*
+* **[Argentina]** **Santiago Gimenez** - *Frontend Engineer*
 
 
 ---
